@@ -6,7 +6,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
 
  **1. Multiples of 3 and 5** Solved 31 December 2022
  
- **2. Even Fibonacci Numbers** 
+ **2. Even Fibonacci Numbers** Solved 1 May 2023
  
  **3. Largest Prime Factor** 
  
