@@ -8,7 +8,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **2. Even Fibonacci Numbers** Solved 1 May 2023
  
- **3. Largest Prime Factor** 
+ **3. Largest Prime Factor** Solved 7 May 2023
  
  **4. Largest Palindrome Product** 
  
