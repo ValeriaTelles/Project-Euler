@@ -10,7 +10,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **3. Largest Prime Factor** Solved 7 May 2023
  
- **4. Largest Palindrome Product** 
+ **4. Largest Palindrome Product** Solved 8 May 2023
  
  **5. Smallest Multiple** 
  
@@ -23,3 +23,23 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  **9. Special Pythagorean Triplet**
  
  **10. Summation of Primes**
+ 
+ **11. Largest Product in a Grid**
+ 
+ **12. Highly Divisible Triangular Number**
+ 
+ **13. Large Sum**
+ 
+ **14. Longest Collatz Sequence**
+ 
+ **15. Lattice Paths**
+ 
+ **16. Power Digit Sum**
+ 
+ **17. Number Letter Counts**
+ 
+ **18. Maximum Path Sum I**
+ 
+ **19. Counting Sundays**
+ 
+ **20. Factorial Digit Sum**
