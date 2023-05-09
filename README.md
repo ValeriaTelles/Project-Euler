@@ -12,9 +12,9 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **4. Largest Palindrome Product** Solved 8 May 2023
  
- **5. Smallest Multiple** 
+ **5. Smallest Multiple** Solved 9 May 2023
  
- **6. Sum Square Difference**
+ **6. Sum Square Difference** Solved 9 May 2023
  
  **7. 10001st Prime**
  
