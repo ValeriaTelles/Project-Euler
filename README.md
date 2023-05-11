@@ -16,7 +16,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **6. Sum Square Difference** Solved 9 May 2023
  
- **7. 10001st Prime**
+ **7. 10001st Prime** Solved 10 May 2023
  
  **8. Largest Product in a Series**
  
