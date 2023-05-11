@@ -6,9 +6,9 @@ What is the value of this product?
 """
 function largest_product_series(num_string)
     max_product = 0
-    for i in range(1, length(num_string) - 12)
+    for i in 1:(length(num_string) - 12)
         product = 1
-        for j in range(i, i + 12)
+        for j in i:(i + 12)
             product *= parse(Int64, num_string[j])
         end
         if product > max_product
