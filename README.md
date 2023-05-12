@@ -20,7 +20,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **8. Largest Product in a Series** Solved 11 May 2023
  
- **9. Special Pythagorean Triplet**
+ **9. Special Pythagorean Triplet** Solved 12 May 2023
  
  **10. Summation of Primes**
  
