@@ -28,7 +28,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **12. Highly Divisible Triangular Number**
  
- **13. Large Sum**
+ **13. Large Sum** Solved 14 May 2023
  
  **14. Longest Collatz Sequence**
  
