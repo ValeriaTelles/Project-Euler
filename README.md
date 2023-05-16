@@ -40,6 +40,6 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **18. Maximum Path Sum I**
  
- **19. Counting Sundays**
+ **19. Counting Sundays** Solved 16 May 2023
  
- **20. Factorial Digit Sum**
+ **20. Factorial Digit Sum** Solved 16 May 2023
