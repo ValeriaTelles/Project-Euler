@@ -34,7 +34,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **15. Lattice Paths**
  
- **16. Power Digit Sum**
+ **16. Power Digit Sum** Solved 15 May 2023
  
  **17. Number Letter Counts**
  
