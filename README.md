@@ -32,7 +32,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **14. Longest Collatz Sequence**
  
- **15. Lattice Paths**
+ **15. Lattice Paths** Solved 17 May 2023
  
  **16. Power Digit Sum** Solved 15 May 2023
  
