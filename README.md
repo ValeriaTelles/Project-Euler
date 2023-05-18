@@ -36,7 +36,7 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  
  **16. Power Digit Sum** Solved 15 May 2023
  
- **17. Number Letter Counts**
+ **17. Number Letter Counts** Solved 18 May 2023
  
  **18. Maximum Path Sum I**
  
