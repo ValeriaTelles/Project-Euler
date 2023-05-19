@@ -43,3 +43,23 @@ These are my solutions written in Julia to the Project Euler problems listed on 
  **19. Counting Sundays** Solved 16 May 2023
  
  **20. Factorial Digit Sum** Solved 16 May 2023
+ 
+ **21. Amicable Numbers**
+ 
+ **22. Names Scores**
+ 
+ **23. Non-Abundant Sums**
+ 
+ **24. Lexicographic Permutations**
+ 
+ **25. 1000-Digit Fibonacci Number** Solved 19 May 2023
+ 
+ **26. Reciprocal Cycles**
+ 
+ **27. Quadratic Primes**
+ 
+ **28. Number Spiral Diagonals**
+ 
+ **29. Distinct Powers**
+ 
+ **30. Digit Fifth Powers**
